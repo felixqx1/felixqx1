@@ -7,7 +7,7 @@
 
 - I’m looking for help with **n/a**
 
-- Ask me about **Python**
+- Ask me about **Python and sql**
 
 - How to reach me **felixqx@proton.me**
 
