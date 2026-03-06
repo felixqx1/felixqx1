@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm felixq</h1>
 - I’m currently working on [oakrige wiki](https://github.com/Koyot-Digital/Wiki)
 
-- I’m currently learning **n/a**
+- I’m currently learning **JS/nodeJS**
 
 - I’m looking to collaborate on **n/a**
 
